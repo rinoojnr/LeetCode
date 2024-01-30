@@ -9,6 +9,7 @@ var hasAlternatingBits = function(n) {
     for(let i = 1;i<binaryNumber.length;i++){
         // Check if the current bit is the same as the previous bit
         if(binaryNumber[i] === preveBit){
+            // If adjacent bits are same, return false
             return false
         }else{
             // Update the previous bit for the next iteration
