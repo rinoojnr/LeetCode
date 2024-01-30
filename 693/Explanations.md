@@ -23,11 +23,6 @@ Explanation: The binary representation of 11 is: 1011.
 ```
  
 
-### Constraints:
-
-```1 <= n <= 231 - 1
-```
-
 # Answer
 
 ## Intuition
